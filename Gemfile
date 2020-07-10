@@ -1,4 +1,9 @@
-source "https://rubygems.org"
+source 'https://gems.ruby-china.com'
+
+gem 'httparty'
+gem 'unicode-display_width'
+gem 'pickup'
+gem 'motto'
 
 # Specify your gem's dependencies in splash.gemspec
 gemspec

@@ -1,0 +1,9 @@
+{
+  "name": "loading",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "loading-cli": "^1.1.0"
+  }
+}

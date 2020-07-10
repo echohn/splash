@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings><!--此文件由 Ruby 插件自动生成。
+您可以:
+1. 移除 Rake 任务
+2. 添加现有的 Rake 任务
+要自动添加现有 Rake 任务，请删除此文件并重新加载项目。
+--><RakeGroup description="" fullCmd="" taksId="rake" /></Settings>
